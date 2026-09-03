@@ -70,7 +70,7 @@ The **CreateBucket** event indicates that an Amazon S3 bucket creation operation
 
 | Parameter        | Observation                           |
 | ---------------- | ------------------------------------- |
-| **Event Time**   | August 05, 2026, 11:21:44 (UTC+05:30) |
+| **Event Time**   | August 04, 2026, 14:05:35 (UTC+05:30) |
 | **User Name**    | root                                  |
 | **Event Name**   | CreateBucket                          |
 | **Event Source** | s3.amazonaws.com                      |
@@ -115,7 +115,7 @@ The second event selected was:
 
 | Parameter        | Observation                           |
 | ---------------- | ------------------------------------- |
-| **Event Time**   | August 05, 2026, 11:30:23 (UTC+05:30) |
+| **Event Time**   | August 04, 2026, 14:11:50 (UTC+05:30) |
 | **User Name**    | root                                  |
 | **Event Name**   | AutomatedDefaultVpcCreation           |
 | **Event Source** | ec2.amazonaws.com                     |
